@@ -1,0 +1,13 @@
+body {
+    background-image: url("../image/logging_background.jpg");
+}
+
+.card {
+    background-color: rgba(235, 235, 235, 0.7);
+    position: inherit;
+}
+
+h3,
+label {
+    color: rgb(33, 20, 20);
+}
